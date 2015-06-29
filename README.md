@@ -21,6 +21,6 @@ Then add **hubot-underthebus** to your `external-scripts.json`:
 ## Sample Interaction
 
 ```
-user1>> hubot hello
-hubot>> hello!
+user1>> you guys are sure quick to throw somebody under the bus.
+hubot>> http://i.imgur.com/1tph6Wf.jpg
 ```
