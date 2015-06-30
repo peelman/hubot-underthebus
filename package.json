@@ -9,7 +9,7 @@
     "hubot",
     "bus",
     "blame"
-  ]
+  ],
 
   "repository": {
     "type": "git",
@@ -17,7 +17,7 @@
   },
 
   "bugs": {
-    "email": "nick@peelman.us"
+    "email": "nick@peelman.us",
     "url": "https://github.com/peelman/hubot-underthebus/issues"
   },
 
