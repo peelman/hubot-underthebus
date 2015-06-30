@@ -1,19 +1,24 @@
 {
   "name": "hubot-underthebus",
   "description": "Sometimes you need to quickly redirect blame",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Nick Peelman <nick@peelman.us>",
   "license": "MIT",
 
-  "keywords": "hubot",
+  "keywords": [
+    "hubot",
+    "bus",
+    "blame"
+  ]
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-underthebus.git"
+    "url": "git://github.com/peelman/hubot-underthebus.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-underthebus/issues"
+    "email": "nick@peelman.us"
+    "url": "https://github.com/peelman/hubot-underthebus/issues"
   },
 
   "dependencies": {

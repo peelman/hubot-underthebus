@@ -2,7 +2,7 @@
 #   Sometimes you need to quickly redirect blame
 #
 # Commands:
-#   under the bus - responds with image
+#   <text> under the bus <text> - responds with image
 #
 # Author:
 #   Nick Peelman <nick@peelman.us>
